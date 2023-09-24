@@ -134,3 +134,7 @@ package-lock.json
 node-modules
 
 .idea
+
+*/.Ds_Store
+
+*/**/.Ds_Store
